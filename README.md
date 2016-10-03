@@ -1,1 +1,1 @@
-# my-tech-radar
+# My Tech Radar
